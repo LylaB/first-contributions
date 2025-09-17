@@ -42,7 +42,7 @@ git clone git@github.com:this-is-you/first-contributions.git
 
 ## 브랜치 생성하기
 
-(아직 저장소 디렉토리가 아니라면) 아래의 명령어를 입력해서 조금 전에 컴퓨터에 복사한 저장소 디렉토리로 이동합니다.
+(아직 저장소 디렉토리가 아니라면) 아래의 명령어를 입력해서 조금 전에 복사한 저장소 디렉토리로 이동합니다.
 
 ```bash
 cd first-contributions
